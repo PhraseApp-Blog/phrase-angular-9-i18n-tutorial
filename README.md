@@ -1,6 +1,6 @@
 # Angular9i18nTutorial
 
-This repository contains a sample for Internationalization in Angular 9. We have created a feedback form for Phrase. The app is served it in three different languages – English, French, and German.
+This repository contains a sample for internationalization in Angular 9. We have created a feedback form for Phrase.com. The app is served it in three different languages – English, French, and German.
 
 # Demo
 
