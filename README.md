@@ -1,4 +1,4 @@
-# Angular9i18nTutorial
+# Angular9 Tutorial on Internationalization (i18n)
 
 This repository contains a sample for internationalization in Angular 9. We have created a feedback form for Phrase.com. The app is served it in three different languages – English, French, and German.
 
